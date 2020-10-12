@@ -1,12 +1,5 @@
 '''
 title           : app.py
-description     : Streamlit app that compares Messi and Ronaldo's stats and shows their positions on the pitch.
-author          : Adil Moujahid
-date_created    : 20200521
-date_modified   : 20200613
-version         : 1.0
-usage           : streamlit run app.py
-python_version  : 3.7.6
 '''
 
 import datetime
