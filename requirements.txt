@@ -4,3 +4,4 @@ Pillow==7.1.2
 matplotlib
 plotly
 shap
+markdown
