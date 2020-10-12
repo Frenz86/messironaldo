@@ -2,7 +2,6 @@ streamlit==0.60.0
 pandas==1.0.3
 Pillow==7.1.2
 numpy
-json
 matplotlib
 plotly
 shap
